@@ -118,8 +118,7 @@ Net Sales = Gross Sales − Discount Amount
 ```text
 bike-store-sales-powerbi/
 │
-├── Dashboard/
-│   └── Bike_Store_Sales.pbix
+├── BikeStore.pbix
 │
 ├── Screenshots/
 │   ├── Overview.png
